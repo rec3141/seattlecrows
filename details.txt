@@ -1,0 +1,18 @@
+<?php
+//mysql address:port
+$addy = "address:port";
+//mysql user
+$user = "user";
+//mysql password
+$pass = "pass";
+//muysql database
+$database = "db";
+
+//twitter username
+$tweetuser = "user";
+//twitter password
+$tweetpass = "pass";
+
+//flickr key
+$flickrkey = "key";
+?>
